@@ -1,7 +1,27 @@
 
-  # Landing page para hotel
+  ## Landing page para hotel
 
-  This is a code bundle for Landing page para hotel. The original project is available at https://www.figma.com/design/puwIvTb3MkdVgCvxwqN8bg/Landing-page-para-hotel.
+  Una landing page para hotel con un diseño moderno y agradable para los usuarios.
+
+  ## Tecnologías utilizadas
+
+  - React
+  - Tailwind CSS
+  - Vite
+
+  ## Características
+
+  - Diseño moderno y agradable para los usuarios.
+  - Responsive
+  - Diseño adaptativo para dispositivos móviles y escritorio.
+
+  ## Instalación
+
+  - Clonar el repositorio
+  - Instalar las dependencias
+  - Ejecutar el servidor de desarrollo
+
+
 
   ## Running the code
 
