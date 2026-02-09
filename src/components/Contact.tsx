@@ -177,9 +177,9 @@ export function Contact() {
                   <div>
                     <h4 className="font-semibold mb-1">Dirección</h4>
                     <p className="text-gray-600">
-                      Av. Costera Miguel Alemán 123<br />
-                      Playa Paraíso, 39390<br />
-                      México
+                      Av. Coro Ciudad federation<br />
+                      Manzana 10 lote 1<br />
+                      Venezuela
                     </p>
                   </div>
                 </div>
@@ -190,7 +190,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-1">Teléfono</h4>
-                    <p className="text-gray-600">+52 744 123 4567</p>
+                    <p className="text-gray-600">+58 412 123 4567</p>
                   </div>
                 </div>
 
